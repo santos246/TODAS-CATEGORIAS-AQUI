@@ -8,11 +8,11 @@
 <body>
 
 <div class="w3-container">
-  <h2>Tags</h2>
-  <p>The w3-tag class creates a tag/label:</p>
+
+
 
   <p>News <span class="w3-tag w3-yellow">ATENÇÃO!</span></p>
-  <p>Comments <span class="w3-tag w3-teal">More Later!</span></p>
+ 
 </div>
 
 </body>
